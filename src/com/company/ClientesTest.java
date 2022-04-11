@@ -5,7 +5,7 @@ import java.time.Month;
 
 public class ClientesTest {
 
-    public static void main(String[] args) {
+    public static void testes() {
         Cliente clienteValorMinimo = new Cliente("1234-123", "Carro top",
                 LocalDateTime.of(2022, Month.APRIL, 28, 14, 33, 48), LocalDateTime.of(2022, Month.APRIL, 28, 15, 33, 48));
 
